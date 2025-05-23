@@ -24,7 +24,7 @@ Welcome to my GitHub! I’m a data-driven problem solver passionate about applyi
 - APIs: Yahoo Finance, Alpha Vantage, News API  
 
 📫 **Let’s Connect**
-- [LinkedIn](www.linkedin.com/in/nick-reinert-9b1276208)  
+- [LinkedIn](https://www.linkedin.com/in/nick-reinert-9b1276208)  
 - Always open to collaboration and new ideas!
 
 
